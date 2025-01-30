@@ -1,3 +1,3 @@
 # Material-Creator
 
-Simple script to materials from textures.
+Simple script to generate materials from textures.
